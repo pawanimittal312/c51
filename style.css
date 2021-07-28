@@ -1,0 +1,31 @@
+h1 {
+    color: black;
+}
+
+.header{
+    background-color: #00ff50;
+    text-align: center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+p,h2{
+    text-align: center;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.item{
+    display: flex;
+    justify-content: space-evenly;
+}
+body{
+    border : solid crimson;
+    background-color: #007080
+
+}
